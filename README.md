@@ -1,7 +1,7 @@
 binary_search.rb
 ================
 
-Binary search mixin for Ruby Arrays.
+Binary search method for Ruby Arrays.
 
 ## Example
 
